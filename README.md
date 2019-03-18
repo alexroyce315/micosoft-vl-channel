@@ -1,1 +1,1 @@
-# micosoft-vl-channel
+# Micosoft-VL-Channel
